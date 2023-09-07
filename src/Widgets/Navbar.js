@@ -23,7 +23,7 @@ function TopMenu() {
               <NavDropdown.Item href="#action3">Action</NavDropdown.Item>
               <NavDropdown.Divider />
               <NavDropdown.Item href="ContactScreen">
-                Something else here
+                  Contact
               </NavDropdown.Item>
             </NavDropdown>
             <NavDropdown title="Premium Scripts" id="navbarScrollingDropdown">
@@ -33,7 +33,7 @@ function TopMenu() {
               </NavDropdown.Item>
               <NavDropdown.Divider />
               <NavDropdown.Item href="ContactScreen">
-                Something else here
+                  Contact
               </NavDropdown.Item>
             </NavDropdown>
           </Nav>

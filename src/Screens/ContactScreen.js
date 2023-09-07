@@ -5,6 +5,7 @@ function ContactScreen() {
   return (
     <div>
           <TopMenu/>
+          <h1>Contact text h1</h1>
     </div>
   );
 }
